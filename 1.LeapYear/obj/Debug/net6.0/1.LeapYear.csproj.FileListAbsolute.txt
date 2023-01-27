@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\bin\Debug\net6.0\1.LeapYear.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\bin\Debug\net6.0\1.LeapYear.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\bin\Debug\net6.0\1.LeapYear.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\bin\Debug\net6.0\1.LeapYear.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\bin\Debug\net6.0\1.LeapYear.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\refint\1.LeapYear.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\1.LeapYear.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\1.LeapYear\obj\Debug\net6.0\ref\1.LeapYear.dll

@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\bin\Debug\net6.0\2.PrimeNumbers.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\bin\Debug\net6.0\2.PrimeNumbers.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\bin\Debug\net6.0\2.PrimeNumbers.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\bin\Debug\net6.0\2.PrimeNumbers.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\bin\Debug\net6.0\2.PrimeNumbers.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\refint\2.PrimeNumbers.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\2.PrimeNumbers.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\2.PrimeNumbers\obj\Debug\net6.0\ref\2.PrimeNumbers.dll

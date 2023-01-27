@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\bin\Debug\net6.0\7.Shapes.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\bin\Debug\net6.0\7.Shapes.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\bin\Debug\net6.0\7.Shapes.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\bin\Debug\net6.0\7.Shapes.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\bin\Debug\net6.0\7.Shapes.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\refint\7.Shapes.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\7.Shapes.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\7.Shapes\obj\Debug\net6.0\ref\7.Shapes.dll

@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\bin\Debug\net6.0\8.CompanyManagement.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\bin\Debug\net6.0\8.CompanyManagement.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\bin\Debug\net6.0\8.CompanyManagement.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\bin\Debug\net6.0\8.CompanyManagement.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\bin\Debug\net6.0\8.CompanyManagement.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\refint\8.CompanyManagement.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\8.CompanyManagement.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\8.CompanyManagement\obj\Debug\net6.0\ref\8.CompanyManagement.dll

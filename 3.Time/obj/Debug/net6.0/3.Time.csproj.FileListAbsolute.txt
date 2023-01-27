@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\bin\Debug\net6.0\3.Time.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\bin\Debug\net6.0\3.Time.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\bin\Debug\net6.0\3.Time.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\bin\Debug\net6.0\3.Time.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\bin\Debug\net6.0\3.Time.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\refint\3.Time.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\3.Time.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\3.Time\obj\Debug\net6.0\ref\3.Time.dll

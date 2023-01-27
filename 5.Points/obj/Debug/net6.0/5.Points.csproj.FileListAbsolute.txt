@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\bin\Debug\net6.0\5.Points.exe
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\bin\Debug\net6.0\5.Points.deps.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\bin\Debug\net6.0\5.Points.runtimeconfig.json
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\bin\Debug\net6.0\5.Points.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\bin\Debug\net6.0\5.Points.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.csproj.AssemblyReference.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.AssemblyInfoInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.AssemblyInfo.cs
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\refint\5.Points.dll
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.pdb
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\5.Points.genruntimeconfig.cache
+C:\Users\Daniela\source\repos\OOP2Exercises1\5.Points\obj\Debug\net6.0\ref\5.Points.dll
